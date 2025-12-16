@@ -4,7 +4,6 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@effect/platform": "^0.93.8",
     "@opencode-ai/plugin": "1.0.162",
     "@types/bun": "^1.3.4",
     "effect": "^3.19.12",

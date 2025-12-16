@@ -25,6 +25,11 @@ reference these when relevant
 
 - **effect-ts**: @knowledge/effect.md
 
+## dependency handling
+
+- always use the package manager being used to add, remove or update dependencies. mostly bun
+- never edit the package.json or any similar file manually
+
 ## commiting patterns
 
 - never commit if not asked to
